@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "S. S. Classes",
+    "slug": "ss-classes-tripathi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/logo.png",
+    "android": { "package": "com.ssclasses.tripathi" },
+    "ios": { "bundleIdentifier": "com.ssclasses.tripathi" }
+  }
+}
